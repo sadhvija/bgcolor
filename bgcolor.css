@@ -1,0 +1,186 @@
+header{
+    height:300px;
+    width:100%;
+    background-image: url("https://www.hindustantimes.com/ht-img/img/2023/03/20/550x309/04505d42-6643-11ed-ae2f-eb59304e4c50_1668751788395_1679302953215_1679302953215.jpg");
+}
+.heading{
+    font-size:50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line:underline ;
+    color:white;
+    font-style: italic;
+}
+.text1{
+    text-align: right;
+    color: white;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px white;
+    margin:10px;
+}
+.text2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px white;
+    margin:40px;
+}
+.text3{
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px white;
+    margin:15px;
+    margin-top: 60px;
+}
+.head{
+    background: linear-gradient(to bottom left,red,yellow);
+    height:38px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: arial;
+    
+}
+.body{
+    background: linear-gradient(to bottom right,rgb(135, 237, 135),rgb(89, 197, 236));
+    height:1150px;
+    width:100%;
+
+}
+.box1{
+    background-color: rgba(255, 255, 255, 0.978);
+    border: 1px solid blue;
+    height:360px;
+    width:380px;
+    display:inline-block;  
+    margin-left:35%;
+    margin-top: 15px;
+    margin-bottom:5px;
+    text-align: center;
+
+}
+.i1{
+    height:280px;
+    width:300px;
+    box-shadow: 5px 5px 5px rgb(100, 135, 166);
+    
+}
+.p1{
+    font-family: arial;
+    font-size: 20px;
+    color: darkblue;
+    font-weight: bold;
+}
+.box2{
+    background-color: white;
+    border: 1px solid blue;
+    height:360px;
+    width:380px;
+    display:inline-block;  
+    margin-left:35%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.i2{
+    height:280px;
+    width:380px;
+}
+.box3{
+    background-color: white;
+    border: 1px solid blue;
+    height:360px;
+    width:380px;
+    display:inline-block;  
+    margin-left:35%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.i2{
+    height:280px;
+    width:380px;
+}
+
+
+
+
+
+
+
+
+
+
+/*header{
+    text-align:center;
+    font-size:50px;
+    font-style:oblique;
+    background-image: url("https://www.hindustantimes.com/ht-img/img/2023/03/20/550x309/04505d42-6643-11ed-ae2f-eb59304e4c50_1668751788395_1679302953215_1679302953215.jpg");
+
+    height:50vh;
+    background-repeat: repeat-x;
+    /*text-decoration-line:underline;
+    text-decoration-color: aliceblue;
+    color:white;
+}  
+ p{ 
+    text-align: right;
+    text-shadow: 5px 5px 5px rgb(247, 96, 1);
+    font-size: 30px;
+    font-style: normal;
+ }
+ li{
+ text-align:center;
+ text-shadow: 3px 5px 5px rgb(54, 190, 13);
+ font-size: 30px;
+ font-style: normal;
+ }
+ul{
+    text-align:left;
+    font-size:30px;
+    font-style: normal;
+    text-shadow: 5px 5px 4px blue;
+}
+.head{
+    background:linear-gradient(to bottom left ,red,yellow);
+    height:7vh;
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    background:linear-gradient(to bottom right,rgb(125, 222, 125),rgb(76, 177, 223));
+    height:1300px;
+    text-align:center;
+    font-size:30px;
+    color:white;
+}
+.box{
+    background-color: white;
+    border:1px solid black;
+    display: inline-block;
+    margin:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    width: 330px;
+    height:314px;
+    vertical-align: top;
+    border-color:rgb(106, 215, 245);
+    text-align: center;
+    
+    margin-bottom: 0%;
+}
+img{
+    height:280px;
+    width:310px;
+}
+.B{
+    font-style: monospace;
+    font-weight: 900;
+    Color:blue;
+}*/
